@@ -22,6 +22,12 @@
            fetch="https://github.com/ResurrectionRemix"
            revision="pie"
 	   review="gerrit.resurrectionremix.com" />
+	
+
+  <remote  name="rr2"
+           fetch="https://github.com/ResurrectionRemix"
+           revision="9.0"
+	   review="gerrit.resurrectionremix.com" />
 
   <remote  name="rr-d"
            fetch="https://github.com/ResurrectionRemix-Devices"
